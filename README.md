@@ -1,2 +1,2 @@
-# web-1
+# htdocs
 web-first
